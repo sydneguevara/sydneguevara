@@ -47,7 +47,7 @@ taxonomies:
   tag: tags
 languages:
   en:
-    languageName: ':es:'
+    languageName: ':uk:'
     menu:
       main:
         - name: About
@@ -63,7 +63,7 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: ':en:'
+    languageName: ':es:'
     menu:
       main:
         - name: Introducción
@@ -82,7 +82,7 @@ languages:
       author: Sydne Guevara
       description: Página profesional de Sydne Guevara
       info:  
-    - PhD Candidate
-    - University of British Columbia
+          - PhD Candidate
+          - University of British Columbia
       keywords: blog,desenvolvedor,pessoal
     title: Sydne Guevara
