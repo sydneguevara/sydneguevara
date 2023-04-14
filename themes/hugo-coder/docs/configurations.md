@@ -40,7 +40,7 @@ Follow [these steps](https://gohugo.io/content-management/comments/#configure-di
 
 ```toml
 [params]
-  commentoURL = "https://cdn.commento.io" # Replace if you use a custom domain
+  commentoURL = "https://sydneguevara.netlify.app/" # Replace if you use a custom domain
 ```
 
 #### Utterances
@@ -91,18 +91,18 @@ These are all the parameters used by `hugo-coder` theme.
 
 | Name                          | Type   | Required | Description                                      | Default                          | Example                                          |
 | ----------------------------- | ------ | -------- | ------------------------------------------------ | -------------------------------- | ------------------------------------------------ |
-| author                        | string | Yes      | Author name.                                     |                                  | `"John Doe"`                                     |
-| info                          | string | Yes      | An headline, job title or similar.               |                                  | `"Full Stack Developer"`                         |
-| description                   | string | Yes      | Description of the site.                         |                                  | `"John Doe's personal website"`                  |
+| author                        | string | Yes      | Author name.                                     |                                  | `"Sydne Guevara"`                                     |
+| info                          | string | Yes      | An headline, job title or similar.               |                                  | `"PhD Candidate University of British Columbia"`                         |
+| description                   | string | Yes      | Description of the site.                         |                                  | `"Sydne Guevara's personal website"`                  |
 | keywords                      | string | Yes      | Site keywords.                                   |                                  | `"blog,developer,personal"`                      |
 | avatarURL                     | string | No       | Photo of the author.                             |                                  | `"images/avatar.jpg"`                            |
-| gravatar                      | string | No       | Gravatar photo of the author                     |                                  | `"john.doe@example.com"`                         |
+| gravatar                      | string | No       | Gravatar photo of the author                     |                                  | `"sydne@mail.ubc.ca"`                         |
 | favicon_32                    | string | No       | Custom path to a 32x32 favicon.                  | `"/img/favicon-32x32.png"`       | `"/img/favicon-32x32.png"`                       |
 | favicon_16                    | string | No       | Custom path to a 16x16 favicon.                  | `"/img/favicon-16x16.png"`       | `"/img/favicon-16x16.png"`                       |
 | touchIcon                     | string | No       | Custom path to a touch-icon                      | `"/images/apple-touch-icon.png"` | `"/images/apple-touch-icon.png"`                 |
-| since                         | string | No       | Date shown in the footer before now year         |                                  | `"2020"`                                         |
+| since                         | string | No       | Date shown in the footer before now year         |                                  | `"2023"`                                         |
 | maxSeeAlsoItems               | number | No       | Series see also post count                       | `5`                              | `10`                                             |
-| commit                        | string | No       | Show the last git commit in the footer           |                                  | `"https://github.com/luizdepra/hugo-coder/tree/"`|
+| commit                        | string | No       | Show the last git commit in the footer           |                                  | `"https://github.com/sydneguevara"`|
 | rtl                           | bool   | No       | Enable the Right To Left mode.                   | `false`                          | `true` or `false`                                |
 | math                          | bool   | No       | Enable MathJax Module and add JS into your site. | `false`                          | `true` or `false`                                |
 | katex                         | bool   | No       | Enable katex for all content types.              | `false`                          | `true` or `false`                                |
@@ -123,7 +123,7 @@ Social Icons are optional. To use them you will need to set at least all the fol
 | name           | string | Yes      | Icon name.                               | `"Github"`                      |
 | icon           | string | Yes      | ForkAwesome icon classes.                | `"fa fa-github"`                |
 | weight         | int    | Yes      | Icon order.                              | `1`                             |
-| url            | string | Yes      | URL to redirect.                         | `"https://github.com/johndoe/"` |
+| url            | string | Yes      | URL to redirect.                         | `"https://github.com/sydneguevara"` |
 
 An example:
 
@@ -132,17 +132,12 @@ An example:
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/sydneguevara"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/sydneguevara"
 ```
 
 ### Menu Items Configurations
