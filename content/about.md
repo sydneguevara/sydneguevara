@@ -9,8 +9,5 @@ description: Introduction about myself
 title: About
 ---
 
-I am a PhD candidate at the University of British Columbia. My interests include bioinformatics, molecular biology, glycomics, and statistics. I want to use this space to share things/tools related to my research that might be useful for other researches. 
-
-#* https://github.com/spf13/viper
-
-#Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Hi, I am Sydne, I am a PhD candidate at the University of British Columbia. My interests include bioinformatics, molecular biology, glycomics, and statistics. I want to use this space to share things/tools related to my research that might be useful for other researches. 
+.
