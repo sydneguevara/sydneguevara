@@ -47,7 +47,7 @@ taxonomies:
   tag: tags
 languages:
   en:
-    languageName: ':English:'
+    languageName: ':uk:'
     menu:
       main:
         - name: About
@@ -63,7 +63,7 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: ':Spanish:'
+    languageName: ':sp:'
     menu:
       main:
         - name: Introducción
