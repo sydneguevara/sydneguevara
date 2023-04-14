@@ -9,7 +9,7 @@ markup:
   highlight:
     style: github-dark
 params:
-  author: Sydne Guevara
+  author: sydneguevara
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -18,42 +18,28 @@ params:
   customRemoteJS: []
   customSCSS: []
   dateFormat: January 2, 2006
-  description: John Doe's personal website
+  description: Sydne Guevara's personal website
   hideColorSchemeToggle: no
   info:
-    - Full Stack DevOps
-    - Magician
-  keywords: blog,developer,personal
+    - PhD Candidate
+    - University of British Columbia
+  keywords: personal, researcher
   maxSeeAlsoItems: 5
   rtl: no
-  since: 2019
+  since: 2023
   social:
     - icon: fa fa-2x fa-github
       name: Github
-      url: https://github.com/johndoe/
+      url: https://github.com/sydneguevara
       weight: 1
-    - icon: fa fa-2x fa-gitlab
-      name: Gitlab
-      url: https://gitlab.com/johndoe/
-      weight: 2
     - icon: fa fa-2x fa-twitter
       name: Twitter
-      url: https://twitter.com/johndoe/
+      url: https://twitter.com/sydneguevara
       weight: 3
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
-      url: https://www.linkedin.com/in/johndoe/
+      url: https://www.linkedin.com/in/sydne-guevara/
       weight: 4
-    - icon: fa fa-2x fa-medium
-      name: Medium
-      url: https://medium.com/@johndoe
-      weight: 5
-    - icon: fa fa-2x fa-rss
-      name: RSS
-      rel: alternate
-      type: application/rss+xml
-      url: https://myhugosite.com/index.xml
-      weight: 6
 taxonomies:
   author: authors
   category: categories
@@ -61,13 +47,13 @@ taxonomies:
   tag: tags
 languages:
   en:
-    languageName: ':uk:'
+    languageName: ':English:'
     menu:
       main:
         - name: About
           url: about/
           weight: 1
-        - name: Blog
+        - name: Publications
           url: posts/
           weight: 2
         - name: Projects
@@ -77,24 +63,24 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: ':brazil:'
+    languageName: ':Spanish:'
     menu:
       main:
-        - name: Sobre
+        - name: Introducción
           url: about/
           weight: 1
-        - name: Blog
+        - name: Publicaciones
           url: posts/
           weight: 2
-        - name: Projetos
+        - name: Proyectos
           url: projects/
           weight: 3
-        - name: Contato
+        - name: Contacto
           url: contact/
           weight: 5
     params:
-      author: João Ninguém
-      description: Sítio pessoal de João Ninguém
-      info: Full Stack DevOps e Mágico
+      author: Sydne Guevara
+      description: Página profesional de Sydne Guevara
+      info: 
       keywords: blog,desenvolvedor,pessoal
-    title: João Ninguém
+    title: Sydne Guevara
