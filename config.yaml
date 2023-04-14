@@ -63,7 +63,7 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: ':usa:'
+    languageName: ':en:'
     menu:
       main:
         - name: Introducción
