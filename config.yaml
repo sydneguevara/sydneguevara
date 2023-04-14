@@ -81,6 +81,8 @@ languages:
     params:
       author: Sydne Guevara
       description: Página profesional de Sydne Guevara
-      info: 
+      info:  
+    - PhD Candidate
+    - University of British Columbia
       keywords: blog,desenvolvedor,pessoal
     title: Sydne Guevara
