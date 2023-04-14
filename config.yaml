@@ -9,7 +9,7 @@ markup:
   highlight:
     style: github-dark
 params:
-  author: sydneguevara
+  author: Sydne Guevara
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
