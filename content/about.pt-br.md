@@ -9,4 +9,4 @@ description: Hugo, the world's fastest framework for building websites
 title: Introducción
 ---
 
-Hola, soy Sydne, soy estudiante de PhD en la Universidad de British Columbia en Canadá. Mis mayores intereses estan relacionados con bioinformatica, biología molecular, glicómica y estadística. En este espacio quiero compartir información y herramientas que adquirido durante éste tiempo que pueden ser útiles para otros investigadores. 
+Hola, soy Sydne, soy estudiante de PhD en la Universidad de British Columbia. Mis mayores intereses estan relacionados con bioinformatica, biología molecular, glicómica y estadística. En este espacio quiero compartir información y herramientas que he adquirido durante éste tiempo que pueden ser útiles para otros investigadores. 
