@@ -3,4 +3,4 @@ slug: contact
 title: Contato
 ---
 
-Me siga em @joaoninguem.
+Sígueme en @sydneguevara icon: fa fa-2x fa-twitter

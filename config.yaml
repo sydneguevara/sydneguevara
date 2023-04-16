@@ -63,7 +63,7 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: ':eng:'
+    languageName: ':us:'
     menu:
       main:
         - name: Perfil
