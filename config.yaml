@@ -63,10 +63,10 @@ languages:
           url: contact/
           weight: 5
   pt-br:
-    languageName: 'EN'
+    languageName: ':eng_US:'
     menu:
       main:
-        - name: Introducción
+        - name: Perfil
           url: about/
           weight: 1
         - name: Publicaciones
