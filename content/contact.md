@@ -5,5 +5,5 @@ title: Contact
 ---
 
 
-Follow me, @sydneguevara
+Follow me, @sydneguevara ![](twitter.png?display=inline-block)
 
