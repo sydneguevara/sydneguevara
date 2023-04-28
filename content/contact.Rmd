@@ -1,9 +1,14 @@
 ---
 slug: contact
 title: Contact
-
+output: html_document
 ---
 
 
-Follow me, @sydneguevara ![](twitter.png?display=inline-block)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fontawesome)
+```
 
+
+Follow me, sydneguevara 

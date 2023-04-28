@@ -1,9 +1,11 @@
 ---
 slug: contact
 title: Contact
-
+output: html_document
 ---
 
 
-Follow me, @sydneguevara ![](twitter.png?display=inline-block)
 
+
+
+Follow me, sydneguevara 
