@@ -8,4 +8,4 @@ output: html_document
 
 
 
-Follow me, sydneguevara 
+Follow me @sydneguevara 

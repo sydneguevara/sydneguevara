@@ -9,4 +9,4 @@ description: Hugo, the world's fastest framework for building websites
 title: Perfil
 ---
 
-Hola, soy Sydne, soy estudiante de PhD en la Universidad de British Columbia. Mis mayores intereses estan relacionados con bioinformatica, biología molecular, glicómica y estadística. En este espacio quiero compartir información y herramientas que he adquirido durante éste tiempo que pueden ser útiles para otros investigadores. 
+Hola, soy Sydne, bióloga molecular especializada en ingeniería genética de plantas de la Universidad de British Columbia. Mis intereses principales se encuentran en las áreas de bioinformática, bioquímica y estadística. En este espacio encontrarás información sobre mi investigación y algunas herramientas computacionales que he desarrollado. Mi objetivo es compartir ciencia en español y contribuir al avance de la biotecnología de plantas en países latinoamericanos.
