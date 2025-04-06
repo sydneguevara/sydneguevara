@@ -1,5 +1,5 @@
 baseURL: http://www.example.com
-title: Sydne Guevara
+title: Sydne Guevara M.Sc., Ph.D.
 theme: hugo-coder
 languageCode: en
 defaultContentLanguage: en
@@ -9,7 +9,7 @@ markup:
   highlight:
     style: github-dark
 params:
-  author: Sydne Guevara
+  author: Sydne Guevara M.Sc., Ph.D.
   avatarURL: images/avatar.jpg
   colorScheme: auto
   commit: https://github.com/luizdepra/hugo-coder/tree/
@@ -21,7 +21,7 @@ params:
   description: Sydne Guevara's personal website
   hideColorSchemeToggle: no
   info:
-    - PhD Candidate
+    - Molecular Biologist
     - University of British Columbia
   keywords: personal, researcher
   maxSeeAlsoItems: 5
@@ -79,10 +79,10 @@ languages:
           url: contact/
           weight: 5
     params:
-      author: Sydne Guevara
+      author: Sydne Guevara M.Sc., Ph.D.
       description: Página profesional de Sydne Guevara
       info:  
-          - PhD Candidate
+          - Molecular Biologist
           - University of British Columbia
       keywords: blog,desenvolvedor,pessoal
-    title: Sydne Guevara
+    title: Sydne Guevara M.Sc., Ph.D.
