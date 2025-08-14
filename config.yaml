@@ -57,12 +57,15 @@ languages:
         - name: About
           url: about/
           weight: 1
-        - name: Publications
-          url: Publications/
+        - name: Projects and Publications
+          url: Projects and Publications/
           weight: 2
-        - name: Projects
-          url: projects/
+        - name: Blog
+          url: blog/
           weight: 3
+        - name: Blog2
+          url: blog2/
+          weight: 4
         - name: Contact me
           url: contact/
           weight: 5
