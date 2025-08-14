@@ -35,10 +35,14 @@ params:
     - icon: fa fa-2x fa-twitter
       name: Twitter
       url: https://twitter.com/sydneguevara
-      weight: 3
+      weight: 2
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/sydne-guevara/
+      weight: 3
+    - icon: fa fa-2x fa-graduation-cap
+      name: Google Scholar
+      url: https://scholar.google.com/citations?user=ct6dQkkAAAAJ&hl=en
       weight: 4
 taxonomies:
   author: authors
