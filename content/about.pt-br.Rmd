@@ -9,10 +9,8 @@ description: Hugo, the world's fastest framework for building websites
 title: Perfil
 ---
 
-¡Hola, soy Sydne! Soy una bióloga molecular interesada en utilizar herramientas genéticas y computacionales para resolver problemas prácticos en el área de la biotecnología. Completé mi pregrado en Biología en la Universidad Nacional de Colombia y luego me mudé a Canadá, donde hice mi maestría en Ecología Química en la Universidad de Alberta y mi doctorado en Biología Molecular de Plantas en la Universidad de British Columbia.
+¡Hola! Soy Sydne, bióloga molecular apasionada por utilizar herramientas genéticas y computacionales que tengan aplicaciones a nivel industrial. Completé mi pregrado en Biología en la Universidad Nacional de Colombia y luego me mudé a Canadá, donde realicé una maestría en Ecología Química en la Universidad de Alberta y mi doctorado en Biología Molecular de Plantas en la Universidad de British Columbia.
 
-La mayor parte de mi investigación se ha centrado en modificar genéticamente plantas para que produzcan compuestos industriales de alto valor. Usando herramientas como CRISPR-Cas9, RNAseq, HPLC y GC-MS me he enfocado en estudiar compuestos de la pared celular de las plantas que tienen potencial para usos industriales y farmacéuticos. Me encanta combinar la investigación en el laboratorio con el análisis de datos y la bioinformática.
+Mi investigación se ha centrado en modificar genéticamente la pared celular de las plantas para producir compuestos de interés industrial y farmacológico. Algunas de las técnicas con las que he trabajado incluyen CRISPR-Cas9, RNA-seq, HPLC y GC-MS. Me encanta combinar la investigación en el laboratorio con análisis de datos y bioinformática.
 
 En este sitio encontrarás una visión general de mi investigación, algunas de las herramientas computacionales que he desarrollado y un blog donde comparto aspectos interesantes de mi trabajo.
-
-¿Qué me entusiasma? Bioinformática, bioquímica, biología sintética, ingeniería genética, estadística y todo lo que combine biología con aplicaciones prácticas.
