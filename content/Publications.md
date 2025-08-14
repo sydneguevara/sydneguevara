@@ -4,7 +4,6 @@ author: "Sydne Guevara"
 date: "2025-03-20"
 ---
 
-## Selected Publications
 
 Here are a few highlights of my research publications:
 
