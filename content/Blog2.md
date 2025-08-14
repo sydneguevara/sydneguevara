@@ -1,5 +1,5 @@
 ---
-title: "Segregation Ratio"
+title: "History of Plant Biotechnology"
 author: "Sydne Guevara"
 date: "2025-03-20"
 output: html_document
