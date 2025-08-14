@@ -4,7 +4,9 @@ author: "Sydne Guevara"
 date: "2025-03-20"
 ---
 
-### Selected Publications
+## Selected Publications
+
+Here are a few highlights of my research publications:
 
 - [COBRA-LIKE4 modulates cellulose synthase velocity and facilitates cellulose deposition in the secondary cell wall](https://academic.oup.com/plphys/article/196/4/2531/7749317)
 - [Tailoring renewable materials via plant biotechnology](https://link.springer.com/article/10.1186/s13068-021-02010-z)
@@ -12,4 +14,4 @@ date: "2025-03-20"
 - [Spatial variation in soil available water holding capacity alters carbon mobilization and allocation to chemical defenses along jack pine stems](https://www.sciencedirect.com/science/article/abs/pii/S0098847219308846)
 - [Short- and long-term cold storage of jack pine bolts is associated with higher concentrations of monoterpenes and nutrients](https://cdnsciencepub.com/doi/full/10.1139/cjfr-2018-0305)
 
-For more publications, visit my [Google Scholar 🎓](https://scholar.google.com/citations?user=ct6dQkkAAAAJ&hl=en)
+For more publications, visit my [Google Scholar 🎓](https://scholar.google.com/citations?user=ct6dQkkAAAAJ&hl=en).
