@@ -1,6 +1,0 @@
----
-slug: projects
-title: Projectos
----
-
-Nada para ver aqui.. Circulando!
