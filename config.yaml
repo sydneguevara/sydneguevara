@@ -80,15 +80,15 @@ languages:
           weight: 3
         - name: Blog
           url: Blog/
-          weight: 3
+          weight: 4
         - name: Contacto
           url: contact/
           weight: 5
     params:
-      author: Home
+      author: Sydne Guevara M.Sc., Ph.D.
       description: Página profesional de Sydne Guevara
       info:  
           - Molecular Biologist
           - Advancing biotechnology through genetic and synthetic biology
       keywords: blog,desenvolvedor,pessoal
-    title: Sydne Guevara M.Sc., Ph.D.
+    title: Inicio
