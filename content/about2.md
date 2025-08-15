@@ -1,12 +1,9 @@
-
 ---
 aliases:
 - about-us
 - about-hugo
 - contact
-author: Sydne Guevara
-date: "2023-04-13"
-description: Hugo, the world's fastest framework for building websites
+description: Introduction about myself
 title: About
 ---
 
@@ -33,3 +30,4 @@ work accessible to Spanish-speaking communities interested in science
 and biotech. The site is fully bilingual, and I hope it helps inspire
 more innovation and collaboration in Latin America and beyond.
 
+<img src="about.jpg" style="width: 200px; object-fit: cover;">
