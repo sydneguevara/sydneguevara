@@ -1,3 +1,15 @@
+---
+aliases:
+- about-us
+- about-hugo
+- contact
+author: Sydne Guevara
+date: "2023-04-13"
+description: Hugo, the world's fastest framework for building websites
+title: About
+---
+
+
 Hi! I’m Sydne, a molecular biologist passionate about applying genetic
 and computational tools to develop innovative solutions in the
 biotechnology industry. I completed my undergraduate degree in Biology
