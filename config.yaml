@@ -32,10 +32,6 @@ params:
       name: Github
       url: https://github.com/sydneguevara
       weight: 1
-    - icon: fa fa-2x fa-twitter
-      name: Twitter
-      url: https://twitter.com/sydneguevara
-      weight: 2
     - icon: fa fa-2x fa-linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/sydne-guevara/
@@ -82,11 +78,14 @@ languages:
         - name: Proyectos
           url: projects/
           weight: 3
+        - name: Blog
+          url: Blog/
+          weight: 3
         - name: Contacto
           url: contact/
           weight: 5
     params:
-      author: Sydne Guevara M.Sc., Ph.D.
+      author: Home
       description: Página profesional de Sydne Guevara
       info:  
           - Molecular Biologist
