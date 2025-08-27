@@ -3,7 +3,9 @@ aliases:
 - about-us
 - about-hugo
 - contact
-description: Introduction about myself
+author: Sydne Guevara
+date: "2025-08-26"
+description: Hugo, the world's fastest framework for building websites
 title: About
 ---
 
