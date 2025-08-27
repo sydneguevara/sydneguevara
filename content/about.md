@@ -7,7 +7,7 @@ author: Sydne Guevara
 date: "2025-08-26"
 description: Hugo, the world's fastest framework for building websites
 title: About
-type: "page"
+output: html_document
 ---
 
 
