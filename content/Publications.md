@@ -5,7 +5,7 @@ date: "2025-03-20"
 ---
 
 
-Here are a few highlights of my research publications:
+Here are a few highlights of my research:
 
 - [COBRA-LIKE4 modulates cellulose synthase velocity and facilitates cellulose deposition in the secondary cell wall](https://academic.oup.com/plphys/article/196/4/2531/7749317)
 - [Tailoring renewable materials via plant biotechnology](https://link.springer.com/article/10.1186/s13068-021-02010-z)
