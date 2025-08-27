@@ -7,6 +7,7 @@ author: Sydne Guevara
 date: "2025-08-26"
 description: Hugo, the world's fastest framework for building websites
 title: About
+
 ---
 
 
@@ -32,4 +33,4 @@ work accessible to Spanish-speaking communities interested in science
 and biotech. The site is fully bilingual, and I hope it helps inspire
 more innovation and collaboration in Latin America and beyond.
 
-<img src="about.jpg" style="width: 200px; object-fit: cover;">
+
