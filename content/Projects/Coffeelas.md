@@ -1,9 +1,9 @@
 ---
 title: "Coffeelas"
 output: html_document
-runtime: shiny
+
 ---
 
-This app was inspired by my husband who is passionate about coffee. It calculate the perfect ratio of your coffee based on weight and volumne or 
+Inspired by my husband’s love for coffee, this app helps you find the perfect coffee to water ratio. Just enter any two values (weight, volume, or ratio) and it calculates the third.
 
-![Calculate your perfect brew!](images/coffee.png)
+![Calculate your perfect brew!](/images/coffee.png)
