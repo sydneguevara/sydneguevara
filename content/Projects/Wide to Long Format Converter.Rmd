@@ -19,7 +19,7 @@ In short: wide = many columns, long = many rows.
 
 Example: 
 
-This
+This: 
 
 | ID | Height\_2023 | Height\_2024 |
 | -- | ------------ | ------------ |
@@ -35,4 +35,4 @@ Becomes:
 | 2  | 2023 | 140    |
 | 2  | 2024 | 145    |
 
-[Launch the App 🚀](https://sydne.shinyapps.io/coffee_calculator/)
+[Launch the App 🚀](https://sydne.shinyapps.io/Wide_to_Long_Converter/)
