@@ -11,11 +11,10 @@ Use this Wide-to-Long Converter to get your data R-ready in a snap. Just upload 
 
 📖 Quick explanation
 
-Wide format: each subject/observation is in a single row, with different variables spread across many columns.
+Wide format: many columns, each subject/observation is in a single row, with different variables spread across many columns.
 
-Long format: each row is one measurement, with columns that say who/what it belongs to and the value.
+Long format: many rows, each row is one measurement, with columns that say who/what it belongs to and the value.
 
-In short: wide = many columns, long = many rows.
 
 Example: 
 
