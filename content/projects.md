@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 slug: "projects"
-date: 2025-04-05
 ---
 
 ## R Shiny App
