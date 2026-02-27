@@ -7,6 +7,7 @@ date: "2025-03-20"
 
 Here are a few highlights of my research:
 
+- [Unraveling mannan biosynthesis in poplar and spruce: functional characterization of Cellulose Synthase-Like Family A (CSLA) genes](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70685)
 - [COBRA-LIKE4 modulates cellulose synthase velocity and facilitates cellulose deposition in the secondary cell wall](https://academic.oup.com/plphys/article/196/4/2531/7749317)
 - [Tailoring renewable materials via plant biotechnology](https://link.springer.com/article/10.1186/s13068-021-02010-z)
 - [Nitrogen and ergosterol concentrations varied in live jack pine phloem following inoculations with fungal associates of mountain pine beetle](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2020.01703/full)

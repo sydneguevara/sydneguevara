@@ -22,7 +22,7 @@ params:
   hideColorSchemeToggle: no
   info:
     - Molecular Biologist
-    - Advancing biotechnology through genetic and synthetic biology
+    - Genomics, Genetic Engineering & Bioinformatics for Translational Research
   keywords: personal, researcher
   maxSeeAlsoItems: 5
   rtl: no
@@ -89,6 +89,6 @@ languages:
       description: Página profesional de Sydne Guevara
       info:  
           - Bióloga Molecular
-          - especializada en biología sintética y en ingeniería genética
+          - 
       keywords: blog,desenvolvedor,pessoal
     title: Inicio
