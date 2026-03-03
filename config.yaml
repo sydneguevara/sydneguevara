@@ -17,7 +17,6 @@ params:
   customJS: []
   customRemoteJS: []
   customSCSS: []
-  dateFormat: January 2, 2006
   description: Sydne Guevara's personal website
   hideColorSchemeToggle: no
   info:
