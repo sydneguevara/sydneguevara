@@ -62,9 +62,12 @@ languages:
         - name: Blog
           url: blog/
           weight: 4
+        - name: Test
+          url: test/
+          weight: 5
         - name: Contact me
           url: contact/
-          weight: 5
+          weight: 6
   pt-br:
     languageName: ':es:'
     menu:
@@ -81,9 +84,12 @@ languages:
         - name: Blog
           url: Blog/
           weight: 4
+        - name: Test
+          url: test/
+          weight: 5
         - name: Contacto
           url: contact/
-          weight: 5
+          weight: 6
     params:
       author: Sydne Guevara M.Sc., Ph.D.
       description: Página profesional de Sydne Guevara
