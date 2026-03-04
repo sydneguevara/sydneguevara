@@ -5,4 +5,4 @@ author: "Sydne Guevara"
 
 
 Here I have some projects:
-- [Coffeelas](Coffeelas/)
+- [Coffeelas]({{< relref "Coffeeelas.md" >}})
