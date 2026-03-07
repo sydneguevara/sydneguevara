@@ -8,4 +8,4 @@ This app runs a Chi-square test to determine whether your T2 seeds fit a 3:1 seg
 [Check your T2 ratio! 🌱](https://sydne.shinyapps.io/chi-square/) 
 
 
-![Arabidopsis](images/Arabidopsis2.png){ width=200px }
+![Arabidopsis](/images/Arabidopsis2.png){ width=200px }
