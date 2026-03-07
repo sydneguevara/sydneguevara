@@ -4,4 +4,6 @@ output: html_document
 date: 2026-01-23
 ---
 
-Inspired by my husband’s love for coffee, this app helps you find the perfect coffee to water ratio. Just enter any two values (weight, volume, or ratio) and it calculates the third. [Start brewing! ☕️]( https://sydne.shinyapps.io/coffee_calculator/)
+| Text | Image |
+|------|-------|
+| This app runs a Chi-square test to determine whether your T2 seeds fit a 3:1 segregation ratio. Enter the number of seeds that survived, died, and the total number of seeds plated. [Check your T2 ratio! 🌱](https://sydne.shinyapps.io/chi-square/) | ![Arabidopsis](images/Arabidopsis2.png){ width=200px } |
