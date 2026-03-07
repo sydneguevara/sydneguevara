@@ -8,4 +8,4 @@ date: 2026-01-23
 [Check your T2 ratio! 🌱](https://sydne.shinyapps.io/chi-square/) 
 
 
-<img src="../../static/images/Arabidopsis2.png" style="float: right; width: 250px; margin-left: 20px;">
+![Arabidopsis](/images/Arabidopsis2.png)
