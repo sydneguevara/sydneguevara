@@ -1,5 +1,5 @@
 ---
-  title: "Segregation Ratio Calculator"
+title: "Segregation Ratio Calculator"
 output: html_document
 date: 2026-02-23
 ---

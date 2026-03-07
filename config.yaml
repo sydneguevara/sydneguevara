@@ -22,7 +22,7 @@ params:
   hideColorSchemeToggle: no
   info:
     - Molecular Biologist
-    - Genomics, Genetic Engineering & Bioinformatics for Translational Research
+    - Genetic Engineering & Bioinformatics for Translational Research
   keywords: personal, researcher
   maxSeeAlsoItems: 5
   rtl: no
@@ -59,9 +59,7 @@ languages:
         - name: Projects
           url: Projects/
           weight: 3
-        - name: Contact me
-          url: contact/
-          weight: 4
+
   pt-br:
     languageName: ':es:'
     menu:
@@ -85,7 +83,7 @@ languages:
       author: Sydne Guevara M.Sc., Ph.D.
       description: Página profesional de Sydne Guevara
       info:  
-          - Bióloga Molecular
-          - 
+          - Molecular Biologist
+          - Genetic Engineering & Bioinformatics for Translational Research
       keywords: blog,desenvolvedor,pessoal
     title: Inicio

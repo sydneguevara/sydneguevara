@@ -21,9 +21,8 @@ Most of my research has focused on engineering plants to produce
 compounds of industrial and pharmaceutical interest. Along the way, I’ve
 worked with techniques such as CRISPR-Cas9, RNAseq, HPLC, and GC-MS.
 
-On this site, you’ll find an overview of my research, some of the
-computational tools I’ve developed, and a blog where I share interesting
-aspects of my work 🌿
+On this site, you’ll find an overview of my research and some of the
+computational tools I’ve developed 🌿
 
 This space is also available in Spanish! Check it out!
 
