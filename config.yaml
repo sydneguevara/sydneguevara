@@ -73,12 +73,6 @@ languages:
         - name: Proyectos
           url: projects/
           weight: 3
-        - name: Blog
-          url: Blog/
-          weight: 4
-        - name: Contacto
-          url: contact/
-          weight: 5
     params:
       author: Sydne Guevara M.Sc., Ph.D.
       description: Página profesional de Sydne Guevara
