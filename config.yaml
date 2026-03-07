@@ -59,15 +59,9 @@ languages:
         - name: Projects
           url: Projects/
           weight: 3
-        - name: Blog
-          url: blog/
-          weight: 4
-        - name: Test
-          url: test/
-          weight: 5
         - name: Contact me
           url: contact/
-          weight: 6
+          weight: 4
   pt-br:
     languageName: ':es:'
     menu:
